@@ -1,0 +1,29 @@
+body {
+        font-family: sans-serif;
+            background-color: yellow ;
+            }
+
+            header {
+                background-color:red ;
+                    height: 120px;
+                    }
+            header h3{
+                text-align: center;
+            }
+                    header img{
+                        width: 80px;
+                        height: 80px;
+                        margin-top: 5px;
+                        margin-left: 5px;
+                        margin-right: 5px;
+                        float:left;
+                            }
+                           
+                                footer {
+                                background-color:red ;
+                                font-size: 45px ;
+                                height: 100p
+                                }
+                                main p {
+                                    background-color:white ;
+                                }
